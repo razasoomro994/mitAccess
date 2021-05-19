@@ -1,0 +1,38 @@
+ .bord{
+    border: 50px double rgb(53, 53, 61);
+    padding-left: 70px !important;
+} 
+
+.bord h5{
+    text-align: center;
+    color: gray;
+}
+
+body{
+    font-family: cursive;
+    color: rgb(15, 11, 48) !important;
+}
+
+.bord h2{
+    text-align: center;
+    color: rgb(87, 87, 99);
+ 
+}
+
+.pic {
+    border: solid 2px;
+    width: 100px !important;
+    height: 100px !important;
+}
+
+.image{
+    width: 150px;
+     margin-left: 400px !important;
+     margin-bottom: 20px;
+}
+
+
+input{
+    padding-left: 10px !important;
+    font-weight: bolder !important ;
+}
